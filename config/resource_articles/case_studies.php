@@ -1,0 +1,68 @@
+<?php
+
+return [
+    'new-mexico-state-university' => [
+        'title' => 'New Mexico State University',
+        'meta_title' => 'New Mexico State University | Case Study | FA Solutions',
+        'category' => 'Case Studies',
+        'date' => 'February 20, 2025',
+        'image' => 'images/nmsu.png',
+        'parent_route' => 'case-studies',
+        'parent_label' => 'Back to Case Studies',
+        'sections' => [
+            ['heading' => 'Background', 'body' => 'New Mexico State University required outbound communication support to assist students through the admissions process during peak periods.'],
+            ['heading' => 'Solution', 'body' => 'FA Solutions executed outbound calling campaigns, contacting 10,000 students per cycle to remind them of deadlines and events.'],
+            ['heading' => 'Outcome & Benefits', 'body' => ''],
+        ],
+        'bullets' => [
+            'Allowed the university to scale support during peak times without hiring full-time staff.',
+            'Cost-effective alternative to in-house hiring.',
+            'Continued partnership with repeated engagement.',
+        ],
+    ],
+    'howard-university' => [
+        'title' => 'Howard University Success Story',
+        'meta_title' => 'Howard University Success Story | Case Study | FA Solutions',
+        'category' => 'Case Studies',
+        'image' => 'images/howard-university.png',
+        'parent_route' => 'case-studies',
+        'parent_label' => 'Back to Case Studies',
+        'intro' => 'Howard University initially worked with another call center company, which lacked experienced financial aid professionals. This resulted in approximately 500 daily escalations back to the school and a transactional billing method that led to inefficiencies.',
+    ],
+    'luther-rice-college-seminary' => [
+        'title' => 'Luther Rice College & Seminary',
+        'meta_title' => 'Luther Rice College & Seminary | Case Study | FA Solutions',
+        'category' => 'Case Studies',
+        'image' => 'images/luther-rice.png',
+        'parent_route' => 'case-studies',
+        'parent_label' => 'Back to Case Studies',
+        'intro' => 'Luther Rice College & Seminary faced similar challenges as Faith International University, coming from a third-party servicer with outdated technology and slow processing times.',
+    ],
+    'concordia-university-st-paul-minnesota' => [
+        'title' => 'Concordia University, St. Paul, Minnesota',
+        'meta_title' => 'Concordia University, St. Paul | Case Study | FA Solutions',
+        'category' => 'Case Studies',
+        'image' => 'images/concordia-university.png',
+        'parent_route' => 'case-studies',
+        'parent_label' => 'Back to Case Studies',
+        'intro' => 'Concordia University faced challenges due to rapid growth. It struggled to keep up with financial aid packaging, document verification, and timely communication with students.',
+    ],
+    'faith-international-university' => [
+        'title' => 'Faith International University',
+        'meta_title' => 'Faith International University | Case Study | FA Solutions',
+        'category' => 'Case Studies',
+        'image' => 'images/faith-international-university.png',
+        'parent_route' => 'case-studies',
+        'parent_label' => 'Back to Case Studies',
+        'intro' => 'Faith International University previously worked with a third-party servicer for financial aid processing but faced issues with outdated technology, delayed aid packaging, and slow customer service response times, leading to delays in receiving federal financial aid.',
+    ],
+    'horry-georgetown-technical-college' => [
+        'title' => 'Horry Georgetown Technical College',
+        'meta_title' => 'Horry Georgetown Technical College | Case Study | FA Solutions',
+        'category' => 'Case Studies',
+        'image' => 'images/horry-georgetown.png',
+        'parent_route' => 'case-studies',
+        'parent_label' => 'Back to Case Studies',
+        'intro' => 'Horry Georgetown Technical College, estimated to have started working with FA Solutions in 2017, faced challenges with their third-party call center for financial aid inquiries.',
+    ],
+];

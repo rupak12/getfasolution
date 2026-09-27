@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'home' => 'Home',
+    'who-we-are' => 'Who We Are',
+    'about-us' => 'About Us',
+    'our-services' => 'Our Services',
+    'team' => 'Leadership Team',
+    'careers' => 'Careers',
+    'our-partnership' => 'Our Partnership',
+    'get-started' => 'Get Started',
+    'financial-aid-processing' => 'Financial Aid Processing',
+    'financial-aid-staffing' => 'Financial Aid Staffing',
+    'student-outreach-communication' => 'Student Outreach',
+    'financial-aid-consulting' => 'Financial Aid Consulting',
+    'testimonials' => 'Testimonials',
+    'case-studies' => 'Case Studies',
+    'faq' => 'FAQ',
+    'blogs' => 'Blogs',
+    'fed-updates' => 'Fed Updates',
+    'knowledge-nuggets' => 'Knowledge Nuggets',
+    'white-paper-report' => 'White Paper Report',
+    'webinar' => 'Events / Webinar',
+    'financial-aid-regulatory-and-compliance-checklist' => 'Compliance Checklist',
+    'contact-us' => 'Contact Us',
+];
